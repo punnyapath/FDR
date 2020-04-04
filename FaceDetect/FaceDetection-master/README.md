@@ -1,0 +1,2 @@
+OpenCV comes with a trainer as well as a detector. If you want to train your own classifier for any object like a car, planes, etc. you can use OpenCV to create one. Its full details are given here: Cascade Classifier Training.
+Here we will deal with detection. OpenCV already contains many pre-trained classifiers for face, eyes, smile, etc. Those XML files are stored in opencv/data/haarcascades/ Folder. Let's create a face detector with OpenCV.
